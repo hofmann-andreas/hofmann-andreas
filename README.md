@@ -4,7 +4,7 @@ Frontend-focused Software Developer from Switzerland, building modern web applic
 
 Currently working at **Interdiscount**.
 
-🌐 Portfolio: [https://hofmann-andreas.ch  ](https://hofmannandreas.com/)
+🌐 Portfolio: https://hofmannandreas.com/
 
 <!--
 **hofmann-andreas/hofmann-andreas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
